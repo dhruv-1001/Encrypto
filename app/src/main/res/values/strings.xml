@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Encrypto</string>
+    <string name="enter_text_to_encrypt">Enter text to Encrypt</string>
+    <string name="enter_password">Enter password</string>
+    <string name="encrypt">encrypt</string>
+    <string name="encryptor">Encryptor</string>
+    <string name="decryptor">Decryptor</string>
+    <string name="enter_text_to_decrypt">Enter text to Decrypt</string>
+    <string name="copy">Copy</string>
+    <string name="decrypt">decrypt</string>
+</resources>
